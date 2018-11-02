@@ -30,6 +30,6 @@ Demo where you can see the problem of drawing multiple animated frames on parent
 ![drawing_depth_example](https://github.com/Pullusb/images_repo/raw/master/AC_drawing_depth_example.gif)
 
 
-### TODO:
+### Todo:
 
 - maybe add button to start/stop modal
