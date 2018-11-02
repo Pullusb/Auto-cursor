@@ -7,7 +7,7 @@ bl_info = {
     "blender": (2, 79, 0),
     "location": "View3D > Toolbar > Grease Pencil > Auto Cursor",
     "warning": "",
-    "wiki_url": "",
+    "wiki_url": "https://github.com/Pullusb/Auto-cursor",
     "category": "Object" }
 
 
