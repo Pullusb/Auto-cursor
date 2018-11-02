@@ -13,23 +13,17 @@ Select another parented layer and it will follow it (Here the animation is playi
 
 ![change_target](https://github.com/Pullusb/images_repo/raw/master/AC_change_target.gif)
 
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
 
-
+---
 You can choose to follow only the translation of an object instead of full LocRotScale by ticking `location only`.
 
 ![follow_loc_option](https://github.com/Pullusb/images_repo/raw/master/AC_follow_loc_option.gif)
 
 
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
 
+---
 Demo where you can see the problem of drawing multiple animated frames on parented layers when cursor isn't moving.
 
 ![drawing_depth_example](https://github.com/Pullusb/images_repo/raw/master/AC_drawing_depth_example.gif)
-
-<br /><br /><br /><br /><br />
-
-
-It works the same way with bones.
-
-![bones](https://github.com/Pullusb/images_repo/raw/master/AC_bones.gif)
