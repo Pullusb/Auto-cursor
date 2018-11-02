@@ -1,5 +1,6 @@
 # Auto-cursor
-Blender Addon (2.79) - Make 3D cursor follow parented object/bone of active Grease Pencil layer
+Blender Addon (2.79) - Make 3D cursor follow parented object/bone of active Grease Pencil layer.
+
 /!\ Once you have activate it, restart blender (it works with a background modal that is launched at startup)
 
 **[Download latest](https://github.com/Pullusb/Auto-cursor/raw/master/auto_cursor.py)** (right click, save Target as) 
