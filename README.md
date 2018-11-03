@@ -25,7 +25,7 @@ You can choose to follow only the translation of an object instead of full LocRo
 <br /><br /><br /><br /><br /><br />
 
 ---
-Demo where you can see the problem of drawing multiple animated frames on parented layers when cursor isn't moving.
+Demo where you can see the problem of drawing multiple animated frames on parented layers when cursor isn't replaced (manually or automatically).
 
 ![drawing_depth_example](https://github.com/Pullusb/images_repo/raw/master/AC_drawing_depth_example.gif)
 
